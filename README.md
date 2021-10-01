@@ -1,2 +1,2 @@
 # nextjs-basics
-Next JS Basics
+Next JS Basics Demo
